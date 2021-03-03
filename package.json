@@ -1,0 +1,24 @@
+{
+  "name": "cypress-boilerplate",
+  "version": "1.0.0",
+  "description": "cypress project",
+  "main": "index.js",
+  "scripts": {
+    "test:run": "./node_modules/.bin/cypress run",
+    "open": "./node_modules/.bin/cypress open"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvgenOwcharik/Cypress-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvgenOwcharik/Cypress-boilerplate/issues"
+  },
+  "homepage": "https://github.com/EvgenOwcharik/Cypress-boilerplate#readme",
+  "dependencies": {
+    "cypress": "^6.6.0"
+  }
+}
